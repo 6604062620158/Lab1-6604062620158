@@ -4,7 +4,7 @@ int main(){
 	float pp,p1,p2,p3,pp1,pp2,pp3;
 	
 	
-	printf("Get the price of the first item 5555555555: ");
+	printf("Get the price of the first item : ");
 	scanf("%f",&pp);
 	
 	
